@@ -8,6 +8,6 @@
     'depends': [
     ],
     'data': [
-        
+        'views/reports.xml',
     ],
 }
